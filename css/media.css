@@ -1,0 +1,176 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	.head-contact ul li i {
+    	font-size: 17px;
+	}
+	.head-contact ul li a i {
+    	font-size: 20px;
+	}
+	.head-contact ul li p {
+		font-size: 14px;
+	}
+	.list-inline {
+		padding-left: 0px;
+	}
+	.logo-img {
+		width: 165px;
+	}
+	.cus-nav1 button {
+		padding: 5px 10px;
+		margin-right: auto;
+	}
+	.banner-text {
+		margin-top: 80px;
+		margin-bottom: 100px;
+	}
+	.banner-text h1 {
+		font-size: 30px;
+	}
+	.banner-text p {
+    	font-size: 24px;
+	}
+	.banner-text button {
+		font-size: 20px;
+		margin-top: 14px;
+		padding: 0.3rem 1.4rem;
+	}
+	.common-text {
+		margin-top: 60px;
+	}
+	.about-text {
+		margin-top: 35px;
+		margin-bottom: 45px;
+	}
+	.ap_txt_wrp {
+		margin-top: 40px;
+	}
+	.l1 {
+		top: 48px;
+		right: 0;
+	}
+	.r1 {
+		top: 55px;
+		left: 0;
+	}
+	.close-btn {
+    	right: -12px;
+	}
+	.icon-social ul li a {
+	    font-size: 16px;
+	    padding: 8px 14px;
+	    margin-left: 4px;
+	}
+	.icon-social ul li:nth-child(1) a {
+    	margin-left: -4px;
+	}
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+		.head-contact ul li i {
+    	font-size: 17px;
+	}
+	.head-contact ul li a i {
+    	font-size: 20px;
+	}
+	.head-contact ul li p {
+		font-size: 14px;
+	}
+	.list-inline {
+		padding-left: 0px;
+	}
+	.logo-img {
+		width: 165px;
+	}
+	.cus-nav1 button {
+		padding: 5px 10px;
+		margin-right: auto;
+	}
+	.banner-text {
+		margin-top: 80px;
+		margin-bottom: 100px;
+	}
+	.banner-text h1 {
+		font-size: 30px;
+	}
+	.banner-text p {
+    	font-size: 24px;
+	}
+	.banner-text button {
+		font-size: 20px;
+		margin-top: 14px;
+		padding: 0.3rem 1.4rem;
+	}
+	.common-text {
+		margin-top: 60px;
+	}
+	.about-text {
+		margin-top: 35px;
+		margin-bottom: 45px;
+	}
+	.ap_txt_wrp {
+		margin-top: 40px;
+	}
+	.l1 {
+		top: 65px;
+		right: 53px;
+	}
+	.r1 {
+		top: 70px;
+		left: -51px;
+	}
+	.close-btn {
+    	right: -12px;
+	}
+	.icon-social ul li a {
+	    font-size: 16px;
+	    padding: 8px 14px;
+	    margin-left: 4px;
+	}
+	.icon-social ul li:nth-child(1) a {
+    	margin-left: -4px;
+	}
+	
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.cus-nav1 button {
+		padding: 5px 10px;
+		margin-right: auto;
+	} 
+	.ap_txt_wrp {
+    	margin-top: 4px;
+	}
+	.l1 {
+		top: 24px;
+	}
+	.r1 {
+		top: 25px;
+	}
+	.close-btn {
+    	right: -12px;
+	}
+	
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	.ap_txt_wrp {
+    	margin-top: 37px;
+	}
+	.l1 {
+		top: 42px;
+	}
+	.r1 {
+		top: 41px;
+	}
+	.close-btn {
+    	right: -12px;
+	}
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+	
+ }
